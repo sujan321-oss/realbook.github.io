@@ -1,0 +1,144 @@
+.uploadsection
+{
+ 
+    margin-top: 3vh;
+}
+.myself
+{
+    
+    display: flex;
+    overflow: hidden;
+    
+ 
+
+    
+}
+
+
+.uploadsection .myself img
+{
+    height: 60px;
+    width: 60px;
+    
+    border-radius: 50px;
+
+    
+}
+
+.name
+{
+ 
+   
+    margin-top: 16px;
+    margin-left: 2%;
+
+
+}
+.name span
+{
+    font-family:  sans-serif;
+}
+
+.name span a
+{
+font-family: monospace;
+font-weight: thin;
+text-decoration: none;
+color: black;
+ 
+    
+}
+
+.public i
+{
+ 
+    margin-left: 10px;
+}
+
+
+
+/* this is for the uploading a file */
+
+
+.uploadfile 
+{
+    /* border: solid; */
+    text-align: center;
+    
+ 
+}
+
+
+.uploadfile .uploadyourstatus
+{
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+}
+
+
+.uploadyourstatus
+{
+    outline: none;
+    height: 10vh;
+    width: 40vw;
+    border: solid;
+  
+    
+}
+
+/* this is for the image uploadation */
+
+.imageupload label i
+{
+
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+    
+}
+
+
+
+.imageupload
+{
+
+    margin-top: 2%;
+    display: flex;
+    
+
+    justify-content: space-between;
+   
+}
+/* work on this */
+.imageupload input
+{
+
+   display: none;
+
+
+}
+
+/* for the live video */
+.live
+{
+    margin-left: 20px;
+    height: 20px;
+    width: 20px;
+  
+}
+
+/* for the feeling */
+.feeling
+{
+    margin-left: 20px;
+    height: 20px;
+    width: 20px;
+    border: solid;
+}
+
+
+
+/* show the uploaded things */
+

@@ -1,0 +1,191 @@
+.story_content
+{
+ 
+    display: flex;
+    justify-content: space-between;
+    background-color: aliceblue;
+    /* border: solid; */
+    border-color: azure;
+    overflow: hidden;
+   
+
+}
+
+
+
+
+.story_content .story 
+{
+
+    /* border: solid; */
+    border-color: black;
+    
+    height: 150px;
+    width: 150px;
+  
+    display: inline-block;
+   
+    background-size: cover;
+}
+
+.story1
+{
+    display: flex;
+    /* border: solid; */
+    border-color: aliceblue;
+    background-image: url(../image/storyupload.jpeg);
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+   
+    background-size: cover;
+
+}
+
+
+
+
+.story_content .story i
+{
+    border: solid;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    padding: 5px;
+    align-items: center;
+    margin: 60px;
+    margin-top: 115px;
+   
+    
+}
+
+.story2
+{
+    background-image: url(../image/kids.jpeg);
+    height: 150px;
+    width: 150px;
+    background-size: cover;
+    /* border: solid; */
+   
+}
+.story2 img
+{
+    border: solid;
+    border-color: blue;
+    border-width: 3px;
+
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    
+    margin-left: 5px;
+}
+.img
+{
+    
+    display: inline-block;
+    border-radius: 50px;
+    
+    border-width: 3px;
+    
+}
+
+.story3
+{
+    background-image: url(../image/kids2.jpeg);
+    height: 150px;
+    width: 150px;
+    background-size: cover;
+    /* border: solid; */
+   
+}
+
+.story3 img
+{
+    border: solid;
+    border-color: blue;
+    border-width: 3px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    
+    margin-left: 5px;
+}
+
+
+.story4
+{
+    background-image: url(../image/kids1.webp);
+    height: 150px;
+    width: 150px;
+    background-size: cover;
+    /* border: solid; */
+
+}
+
+.story4 img
+{
+    border: solid;
+    border-color: blue;
+    border-width: 3px;
+    height: 60px;
+    width: 55px;
+    border-radius: 50px;
+    
+    margin-left: 5px;
+}
+
+
+
+/* show uploaded things */
+
+.showuploadedimage
+{
+    background-color: aqua;
+    margin-top: 20px;
+   
+    height: 400px;
+}
+
+.showstatus
+{
+   
+    height: 80px;
+    display: flex;
+    font-size: large;
+    font-weight: bolder;
+    justify-content: center;
+    align-items: center;
+    
+}
+.showstatus .st
+{
+  
+    margin-left: 20px;
+ 
+}
+
+
+
+.showimage
+{
+  
+    height: 310px;
+    display: flex;
+    justify-content: center;
+    
+  
+}
+
+.showimage img
+{
+
+    height: 310px;
+   
+   
+
+    
+}
+
+
+
